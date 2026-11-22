@@ -37,6 +37,10 @@ The files are named with the sprint number for easy tracking:
 ├── 📊 SPRINT 8.02.pbix
 ├── 📜 SPRINT 9.pdf
 ├── 📜 Informe SPRINT 10.pdf
-├── 📦 Proejecte Final_ZIP.zip # Final project files
-├── 📊 Projecte Final _ Presentació Olist.pptx
 └── 🖼️ treemap.png # Visualization example
+
+The final project of the programme, the Olist exploratory analysis and demand
+forecasting, is not in this repository. It lives in
+[Machine-Learning-Predictive-Models](https://github.com/oriac-gimeno/Machine-Learning-Predictive-Models),
+with the deck and a readable export of the notebook. The copies that used to sit
+here were the same files, one of them carrying a figure that was corrected there.
